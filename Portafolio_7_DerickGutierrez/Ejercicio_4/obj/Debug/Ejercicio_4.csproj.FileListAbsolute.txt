@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\portafolio 7 c#\Ejercicio_1\Ejercicio_4\bin\Debug\Ejercicio_4.exe.config
+C:\Users\Usuario\Desktop\portafolio 7 c#\Ejercicio_1\Ejercicio_4\bin\Debug\Ejercicio_4.exe
+C:\Users\Usuario\Desktop\portafolio 7 c#\Ejercicio_1\Ejercicio_4\bin\Debug\Ejercicio_4.pdb
+C:\Users\Usuario\Desktop\portafolio 7 c#\Ejercicio_1\Ejercicio_4\obj\Debug\Ejercicio_4.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\portafolio 7 c#\Ejercicio_1\Ejercicio_4\obj\Debug\Ejercicio_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\portafolio 7 c#\Ejercicio_1\Ejercicio_4\obj\Debug\Ejercicio_4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\portafolio 7 c#\Ejercicio_1\Ejercicio_4\obj\Debug\Ejercicio_4.exe
+C:\Users\Usuario\Desktop\portafolio 7 c#\Ejercicio_1\Ejercicio_4\obj\Debug\Ejercicio_4.pdb
