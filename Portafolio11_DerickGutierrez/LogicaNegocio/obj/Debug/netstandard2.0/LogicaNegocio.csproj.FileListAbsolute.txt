@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\Portafolio 11\Portafolio11_DerickGutierrez\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.deps.json
+C:\Users\Usuario\Desktop\Portafolio 11\Portafolio11_DerickGutierrez\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Users\Usuario\Desktop\Portafolio 11\Portafolio11_DerickGutierrez\LogicaNegocio\bin\Debug\netstandard2.0\LogicaNegocio.pdb
+C:\Users\Usuario\Desktop\Portafolio 11\Portafolio11_DerickGutierrez\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Portafolio 11\Portafolio11_DerickGutierrez\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Portafolio 11\Portafolio11_DerickGutierrez\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Portafolio 11\Portafolio11_DerickGutierrez\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Portafolio 11\Portafolio11_DerickGutierrez\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Portafolio 11\Portafolio11_DerickGutierrez\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.dll
+C:\Users\Usuario\Desktop\Portafolio 11\Portafolio11_DerickGutierrez\LogicaNegocio\obj\Debug\netstandard2.0\LogicaNegocio.pdb

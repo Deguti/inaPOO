@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eB1SF4+MZ4mmFZpNgtFNY9lF75/eZdjhqLdNEAjXELuV0GiLJ0DI/rTqU7a6muq9yFAYdhgYrHh5giyMIFbOMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Portafolio 11\\Portafolio11_DerickGutierrez\\ProyectoEscritorio\\ProyectoEscritorio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
