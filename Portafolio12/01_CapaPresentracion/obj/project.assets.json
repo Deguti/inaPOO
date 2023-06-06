@@ -1,0 +1,147 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "02_CapaLogicaNegocio/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "03_CapaAccesoDatos": "1.0.0",
+          "CapaEntidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/02_CapaLogicaNegocio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/02_CapaLogicaNegocio.dll": {}
+        }
+      },
+      "03_CapaAccesoDatos/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "CapaEntidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/03_CapaAccesoDatos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/03_CapaAccesoDatos.dll": {}
+        }
+      },
+      "CapaEntidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/CapaEntidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CapaEntidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02_CapaLogicaNegocio/1.0.0": {
+      "type": "project",
+      "path": "../02_CapaLogicaNegocio/02_CapaLogicaNegocio.csproj",
+      "msbuildProject": "../02_CapaLogicaNegocio/02_CapaLogicaNegocio.csproj"
+    },
+    "03_CapaAccesoDatos/1.0.0": {
+      "type": "project",
+      "path": "../03_CapaAccesoDatos/03_CapaAccesoDatos.csproj",
+      "msbuildProject": "../03_CapaAccesoDatos/03_CapaAccesoDatos.csproj"
+    },
+    "CapaEntidades/1.0.0": {
+      "type": "project",
+      "path": "../CapaEntidades/CapaEntidades.csproj",
+      "msbuildProject": "../CapaEntidades/CapaEntidades.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "02_CapaLogicaNegocio >= 1.0.0",
+      "CapaEntidades >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Portafolio12\\Portafolio12\\01_CapaPresentracion\\01_CapaPresentracion.csproj",
+      "projectName": "01_CapaPresentracion",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\Portafolio12\\Portafolio12\\01_CapaPresentracion\\01_CapaPresentracion.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\Portafolio12\\Portafolio12\\01_CapaPresentracion\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Usuario\\Desktop\\Portafolio12\\Portafolio12\\02_CapaLogicaNegocio\\02_CapaLogicaNegocio.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Desktop\\Portafolio12\\Portafolio12\\02_CapaLogicaNegocio\\02_CapaLogicaNegocio.csproj"
+            },
+            "C:\\Users\\Usuario\\Desktop\\Portafolio12\\Portafolio12\\CapaEntidades\\CapaEntidades.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Desktop\\Portafolio12\\Portafolio12\\CapaEntidades\\CapaEntidades.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.31, 3.1.31]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ozqrhG0Y8pjsVD0vPdGuaLeVj0LPUlwUZkLJHLTROxEBh8UZH3Mu4COZl2550x/HeMMhu5hRpLtP/qXhJKqUmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Portafolio12\\Portafolio12\\01_CapaPresentracion\\01_CapaPresentracion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

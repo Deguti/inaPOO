@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\Portafolio12\Portafolio12\03_CapaAccesoDatos\bin\Debug\netstandard2.0\03_CapaAccesoDatos.deps.json
+C:\Users\Usuario\Desktop\Portafolio12\Portafolio12\03_CapaAccesoDatos\bin\Debug\netstandard2.0\03_CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\Portafolio12\Portafolio12\03_CapaAccesoDatos\bin\Debug\netstandard2.0\03_CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\Portafolio12\Portafolio12\03_CapaAccesoDatos\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\Usuario\Desktop\Portafolio12\Portafolio12\03_CapaAccesoDatos\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\Usuario\Desktop\Portafolio12\Portafolio12\03_CapaAccesoDatos\obj\Debug\netstandard2.0\03_CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Portafolio12\Portafolio12\03_CapaAccesoDatos\obj\Debug\netstandard2.0\03_CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Portafolio12\Portafolio12\03_CapaAccesoDatos\obj\Debug\netstandard2.0\03_CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Portafolio12\Portafolio12\03_CapaAccesoDatos\obj\Debug\netstandard2.0\03_CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Portafolio12\Portafolio12\03_CapaAccesoDatos\obj\Debug\netstandard2.0\03_CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Portafolio12\Portafolio12\03_CapaAccesoDatos\obj\Debug\netstandard2.0\03_CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Portafolio12\Portafolio12\03_CapaAccesoDatos\obj\Debug\netstandard2.0\03_CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\Portafolio12\Portafolio12\03_CapaAccesoDatos\obj\Debug\netstandard2.0\03_CapaAccesoDatos.pdb
